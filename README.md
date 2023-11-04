@@ -18,3 +18,5 @@ Key Features:
 6.Error Handling: The system includes error handling to guide users and prevent invalid inputs. It provides clear error messages when employees are not found or when an invalid option is chosen.
 
 The Employee Payroll Management System is designed to simplify the payroll and employee management process, reducing the time and effort required for routine administrative tasks. It can be further customized and extended to meet the specific needs of the organization, making it a valuable tool for human resources and payroll departments.
+
+This simple payroll system can be used for keeping a database for daily wage workers or labourers. As mentioned above, If we connect this to a MySQL Database, we can persist the data and access it anytime.
